@@ -1,0 +1,1 @@
+require_relative 'smart_sample/fitness_proportionate_selector'
